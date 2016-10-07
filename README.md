@@ -15,3 +15,4 @@ Open Main.scene. If you're familiar with first person shooter games, the control
 #Other notes:
 
 - You can adjust the crosshair render depth with the Crosshair.Depth public property. 
+- It's built in Unity 5.4.1f1, which is (as of now) the newest stable release. If you have an older version, sorry man.
